@@ -8,7 +8,7 @@
         println("b = $b")
         var c:Char = 'K'
         println("c = $c")
-        var d:String = "Krisha"
+        var d:String = "SAKSHI"
         println("d = $d")
         var e:Boolean = true
         println("e = $e")
